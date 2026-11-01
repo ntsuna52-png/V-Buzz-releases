@@ -2,7 +2,7 @@
   "version": "1.0.8",
   "notes": "アップデート",
   "download_url": "https://github.com/ntsuna52-png/V-Buzz-releases/releases/download/v1.0.8/update.zip",
-  "size": 22791147,
-  "sha256": "088edefb69efcdf4df2f2e65784f3bb878c4cf6d4b0613e9d9d7fdc7d326de98",
-  "signature": "89e8865e0b5066f579d300a144a48673584c6e5ce3379e243a196ee81dd56fab1be65930a1a2439c20b8cac652d5734f286ae84105169e9a268bd669c2014b05"
+  "size": 22791216,
+  "sha256": "35ce8b55cb983d7f6e7184e709b994ec87e36340d7190427ea98c5fa671bf3a6",
+  "signature": "68c50cd8e184991dc2e099e1bf45d20b32e11201115ff4099e59dea080de6a6c4b51d0c4e1347ec60eaf747d8f28f8904fd3b43d8dfd3eca97dd66e4d8a8b20e"
 }
