@@ -1,8 +1,8 @@
 {
-  "version": "1.3.4",
+  "version": "1.3.5",
   "notes": "アップデート",
-  "download_url": "https://github.com/ntsuna52-png/V-Buzz-releases/releases/download/v1.3.4/update.zip",
-  "size": 23121194,
-  "sha256": "58cf6696d77f6eb3edab8f0b09919a650ccf70b13178acb1550bd4713abc13e9",
-  "signature": "d2309c7bc9e0ec1fecdfde27125dca1bfe344dd0fc274322570472909ad4ec29c8b7d6234ca72002c26e6db05a101462570b82e5b48ad0e7284cfbdfeb872005"
+  "download_url": "https://github.com/ntsuna52-png/V-Buzz-releases/releases/download/v1.3.5/update.zip",
+  "size": 23237376,
+  "sha256": "caa5e2508e814d66fa4ef1dfd08862cfc797bd9cb869b7f23f51bd89bbca08cc",
+  "signature": "5b18c0dfef3c91b4e270a48000e60d6fcfef6a874ea67510e0217055c2397384ceeeb7152de62b811f2241ed98d509eccc0e0b88e2d284bf8455ddb9ed3ff70d"
 }
